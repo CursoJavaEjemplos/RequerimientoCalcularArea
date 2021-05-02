@@ -10,9 +10,7 @@ public class Calcular {
     private static Float altura = null;  
     private static Float r = null;     
     public Calcular() {
-       // super();
-        ///tyfytfy
-        //gggggg
+     
     }
 
     public static void main(String[] args) {
